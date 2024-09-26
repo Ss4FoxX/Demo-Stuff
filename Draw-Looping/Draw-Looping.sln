@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draw-Looping", "Draw-Looping.csproj", "{E4328440-EDC7-4E27-874E-868071F4033B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4328440-EDC7-4E27-874E-868071F4033B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4328440-EDC7-4E27-874E-868071F4033B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4328440-EDC7-4E27-874E-868071F4033B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4328440-EDC7-4E27-874E-868071F4033B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAC28B64-F57E-4092-97C7-DEF2E4FDBF26}
+	EndGlobalSection
+EndGlobal
